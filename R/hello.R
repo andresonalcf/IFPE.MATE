@@ -14,5 +14,5 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("Hello, world! fazendo outro testes")
+  print("Hello, world! fazendo outro teste, agora empurando para o outro repositório")
 }
